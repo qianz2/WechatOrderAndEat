@@ -2,10 +2,14 @@
 
 #### a microservice helping customers to order meal from wechat app.
 
-install npm before using it
+#####need to install node and npm:
 
-FrameWork: Spring Boot
+######npm install
 
-client: Wechat App
+######npm run dev
 
-Server: Tomcat or Nginx
+#####FrameWork: Spring Boot
+
+#####client: Wechat App
+
+#####Server: Tomcat or Nginx
