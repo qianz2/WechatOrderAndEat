@@ -1,15 +1,15 @@
 ## WechatOrderAndEat
 
-#### a microservice helping customers to order meal from wechat app.
+### a microservice helping customers to order meal from wechat app.
 
-#####need to install node and npm:
+need to install node and npm:
 
-######npm install
+npm install
 
-######npm run dev
+npm run dev
 
-#####FrameWork: Spring Boot
+FrameWork: Spring Boot
 
-#####client: Wechat App
+client: Wechat App
 
-#####Server: Tomcat or Nginx
+Server: Tomcat or Nginx
